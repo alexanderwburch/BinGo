@@ -1,8 +1,8 @@
 export default {
-  apiKey: 'AIzaSyAHshJehJ-E_9AoUN3kfY8BLvZtFoXxFto',
-  authDomain: 'react-native-starter-app.firebaseapp.com',
-  databaseURL: 'https://react-native-starter-app.firebaseio.com',
-  projectId: 'react-native-starter-app',
-  storageBucket: 'react-native-starter-app.appspot.com',
-  messagingSenderId: '762822550667',
+    apiKey: "AIzaSyDmg9YoMtihzEQ8nNKHM26drdt4Cy7ws_o",
+    authDomain: "bingo-74214.firebaseapp.com",
+    databaseURL: "https://bingo-74214.firebaseio.com",
+    projectId: "bingo-74214",
+    storageBucket: "bingo-74214.appspot.com",
+    messagingSenderId: "299738407211"
 };
